@@ -1,20 +1,28 @@
-<table width="100%" style="border: none">
-<tr>
-<td width="64%" valign="top" style="border: none">
+<img src="./image/miku.jpeg" width="320" alt="Nakano Miku at the aquarium" align="right" />
+
 <div align="center">
-<blockquote>
-<p align="left"><em><br>"If you want to create something great, you have to be willing to question everything, including your own rules."<br>若想创造卓越，你必须敢于质疑一切，包括你自己设定的规则。</em></p>
-<p align="right">&mdash;&mdash;&mdash;保罗·格雷厄姆（Paul Graham）</p>
-<p align="left"><em><br>"The snake which cannot cast its skin has to die."<br>无法褪皮的蛇，终将走向死亡。</em></p>
-<p align="right">&mdash;&mdash;&mdash;尼采（Friedrich Nietzsche）</p>
-</blockquote>
+
+> <p align="left"><em>
+>     <br>
+>     "If you want to create something great, you have to be willing to question everything, including your own rules."
+>     <br>
+>     若想创造卓越，你必须敢于质疑一切，包括你自己设定的规则。
+> </em></p>
+> <p align="right">
+>     &mdash;&mdash;&mdash;保罗·格雷厄姆（Paul Graham）
+> </p>
+>
+> <p align="left"><em>
+>     <br>
+>     "The snake which cannot cast its skin has to die."
+>     <br>
+>     无法褪皮的蛇，终将走向死亡。
+> </em></p>
+> <p align="right">
+>     <img src="./image/spacer.gif" width="320" height="1" align="right" alt="" />&mdash;&mdash;&mdash;尼采（Friedrich Nietzsche）
+> </p>
+
 </div>
-</td>
-<td width="36%" valign="top" align="right" style="border: none">
-<img src="./image/miku.jpeg" width="100%" alt="Nakano Miku at the aquarium" />
-</td>
-</tr>
-</table>
 
 ---
 
