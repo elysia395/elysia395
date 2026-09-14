@@ -28,9 +28,9 @@
 
 _⚡ Android developer, building **Kotlin** plugins &amp; tooling around **DSH** (DeepSeek Harness). ⚡_
 
-_In the space between system and experience — sidebars, radars, and small bridges between machines — I craft tools that other workflows can lean on._
+_In the AI era, teaching my way toward becoming a **full-stack engineer** — leveraging **AI** to solve real problems and giving back to the **open source** community._
 
-_Author of **[DSH-better-sidebar](https://github.com/elysia395/DSH-better-sidebar)**, **[dsh-plugin-radar](https://github.com/elysia395/dsh-plugin-radar)** and **[nuphus-mcp](https://github.com/elysia395/nuphus-mcp)**_
+_Author of **[dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)** and **[NightBoard68](https://github.com/elysia395/NightBoard68)**_
 
 <sub><em>Hello, fellow developer! May your builds stay green and your plugins load fast. 🚀</em></sub>
 
