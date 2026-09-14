@@ -34,16 +34,10 @@ _Author of **[DSH-better-sidebar](https://github.com/elysia395/DSH-better-sideba
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elysia395&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-        <img src="https://github-readme-stats.vercel.app/api?username=elysia395&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" width="100%" />
-      </picture>
+      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
     </td>
     <td align="center" width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elysia395&layout=compact&hide_border=true&theme=tokyonight" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elysia395&layout=compact&hide_border=true&theme=default" alt="Top languages" width="100%" />
-      </picture>
+      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
     </td>
   </tr>
 </table>
