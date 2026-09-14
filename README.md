@@ -1,6 +1,6 @@
-<table width="100%">
+<table width="100%" style="border: none">
 <tr>
-<td width="64%" valign="top">
+<td width="64%" valign="top" style="border: none">
 <div align="center">
 <blockquote>
 <p align="left"><em><br>"If you want to create something great, you have to be willing to question everything, including your own rules."<br>若想创造卓越，你必须敢于质疑一切，包括你自己设定的规则。</em></p>
@@ -10,7 +10,7 @@
 </blockquote>
 </div>
 </td>
-<td width="36%" valign="top" align="right">
+<td width="36%" valign="top" align="right" style="border: none">
 <img src="./image/miku.jpeg" width="100%" alt="Nakano Miku at the aquarium" />
 </td>
 </tr>
