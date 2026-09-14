@@ -4,14 +4,22 @@
 
 > <p align="left"><em>
 >     <br>
->     Good tools are quiet: they vanish into the workflow and leave only the work behind.
+>     "If you want to create something great, you have to be willing to question everything, including your own rules."
 >     <br>
->     好的工具是安静的——它隐入工作流，只留下作品本身。
->     <br>
->     Build things that others lean on, then get out of the way.
+>     若想创造卓越，你必须敢于质疑一切，包括你自己设定的规则。
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;《The Plugin Maker's Creed》
+>     &mdash;&mdash;&mdash;保罗·格雷厄姆（Paul Graham）
+> </p>
+>
+> <p align="left"><em>
+>     <br>
+>     "The snake which cannot cast its skin has to die."
+>     <br>
+>     无法褪皮的蛇，终将走向死亡。
+> </em></p>
+> <p align="right">
+>     &mdash;&mdash;&mdash;尼采（Friedrich Nietzsche）
 > </p>
 
 </div>
