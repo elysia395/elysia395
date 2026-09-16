@@ -26,7 +26,7 @@
 
 ---
 
-_⚡ Always-learning developer, exploring **Android** &amp; **Kotlin** by building plugins and tooling around **DSH** (DeepSeek Harness). ⚡_
+_⚡ Always-learning developer, sharpening my skills one commit at a time. ⚡_
 
 _In the AI era, teaching my way toward becoming a **full-stack engineer** — leveraging **AI** to solve real problems and giving back to the **open source** community._
 
