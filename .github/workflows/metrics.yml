@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   metrics-left:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - name: General metrics
@@ -27,7 +27,7 @@ jobs:
           config_timezone: Asia/Shanghai
 
   metrics-right:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - name: Iso calendar and languages
