@@ -54,10 +54,10 @@ _Author of **[dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-e
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
+      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.left.svg?v=2" alt="Metrics Left" width="100%">
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
+      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.right.svg?v=2" alt="Metrics Right" width="100%">
     </td>
   </tr>
 </table>
